@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  ai-data-analyst:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dbo-ai-analyst
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - MODEL_NAME=${MODEL_NAME:-gpt-4o-mini}
+    volumes:
+      - ./uploaded_files:/app/uploaded_files
+    restart: unless-stopped

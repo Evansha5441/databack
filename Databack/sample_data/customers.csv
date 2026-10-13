@@ -1,0 +1,26 @@
+customer_id,customer_name,industry,tier,country,signup_date,account_manager
+Cust_100,Apex Global,Finance,Enterprise,Japan,2022-07-27,Sarah Jenkins
+Cust_101,Beacon Logistics,Energy,Mid-Market,Japan,2021-05-07,Sarah Jenkins
+Cust_102,Cirrus Cloudworks,Retail,SMB,Japan,2020-09-05,Alex Rivera
+Cust_103,Delta Holdings,Retail,Mid-Market,Japan,2020-10-22,Liam Smith
+Cust_104,Epsilon Dynamics,Energy,Enterprise,France,2022-09-09,Liam Smith
+Cust_105,Falcon Systems,Healthcare,SMB,United Kingdom,2020-09-22,Emily Watson
+Cust_106,GigaByte Solutions,Energy,SMB,Australia,2021-10-05,Alex Rivera
+Cust_107,Horizon Media,Energy,SMB,Japan,2020-10-23,Liam Smith
+Cust_108,Iris Innovations,Finance,SMB,France,2022-04-04,Liam Smith
+Cust_109,Jupiter Retail,Healthcare,Enterprise,United Kingdom,2021-09-13,Alex Rivera
+Cust_110,Kestrel Capital,Manufacturing,Mid-Market,United Kingdom,2021-07-18,Emily Watson
+Cust_111,Lumina Health,Retail,Enterprise,Germany,2022-05-31,David Chen
+Cust_112,Matrix Industrial,Energy,Enterprise,Japan,2020-05-05,Sarah Jenkins
+Cust_113,Nexus Financial,Technology,Mid-Market,France,2021-11-27,David Chen
+Cust_114,Orion Technologies,Healthcare,Enterprise,Australia,2020-12-16,Liam Smith
+Cust_115,Pinnacle Corp,Retail,Enterprise,Germany,2020-12-04,Liam Smith
+Cust_116,Quantum Software,Finance,Mid-Market,Japan,2020-05-08,Emily Watson
+Cust_117,Radiant Energy,Finance,Mid-Market,United Kingdom,2021-01-01,Emily Watson
+Cust_118,Summit Enterprises,Technology,Mid-Market,Germany,2022-06-06,Sarah Jenkins
+Cust_119,Titan Manufacturing,Technology,SMB,United States,2021-08-08,David Chen
+Cust_120,Vertex Labs,Finance,Enterprise,France,2021-05-08,Alex Rivera
+Cust_121,Waveform Audio,Finance,SMB,Japan,2022-04-19,Emily Watson
+Cust_122,Zenith Media,Finance,Mid-Market,United Kingdom,2022-04-17,David Chen
+Cust_123,Acrobat Logistics,Healthcare,Mid-Market,France,2021-09-05,David Chen
+Cust_124,Blaze Interactive,Technology,Mid-Market,United States,2021-03-23,David Chen
